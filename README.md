@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Wany917
 - 👀 I’m interested in web !
-- 🌱 I’m currently learning most langage HTML5 CSS3 JavaScript PHP ans C
+- 🌱 I’m currently learning most langage JavaScript PHP ans C
 - 💞️ I’m looking to collaborate on, or rather I would like to work with a company on a sandwich course for the purpose of my studies ^^
 
 - 📫 How to reach me : Yvannkakou03@gmail.com 
